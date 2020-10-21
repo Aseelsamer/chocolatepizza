@@ -9,7 +9,7 @@ body {
     font-size: xx-large;
 }
 
-body.the-list{
+.the-list{
     width: 900px;
     height: 300px;
     position: relative;
