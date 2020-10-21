@@ -9,10 +9,9 @@ body {
     font-size: xx-large;
 }
 
-.the-list{
+body.the-list{
     width: 900px;
     height: 300px;
-    background-image: url(img/list-bg.png);
     position: relative;
     margin-bottom: 50px;
     font-family: "Short Stack";
@@ -169,10 +168,10 @@ h6 {
     
 }
 #Vanessa {
-     padding-right : 50px;
-     padding-left : -100px;  
+    /* padding-right : 70px; */
+    padding-left : 80px;  
     margin-top: -50px;
-    float: right;
+    float: left;
     color:grey;
     font-size: 20px;
     line-height: 1.5;  
