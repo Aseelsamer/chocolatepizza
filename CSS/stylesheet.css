@@ -12,7 +12,7 @@ body {
 .the-list{
     width: 900px;
     height: 300px;
-    position: relative;
+    /* position: relative; */
     margin-bottom: 50px;
     font-family: "Short Stack";
   
